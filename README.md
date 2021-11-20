@@ -27,13 +27,9 @@ We will use an MQ sensor for sensing purpose and Arduino for processing the sens
 There are many projects, which can do Attentivity checking. But we have an advanced project which apart from doing Attention checking, does mood recognition and focuses on the mental health of children during these tough times. The mental development of a child occurs most in these foundational stages, and such effects on mental health at early stages can have a lifelong impact, and can even have a negative impact on a child’s attitude in the future. Utmost importance has to be given to a child’s mental health at these stages, and our app helps in doing so by breaking the barrier.
 
 ### <img src="https://icons-for-free.com/iconfiles/png/512/workflow-131964753379858822.png" width="40" height="32"> Workflow
-1. Organization/Parent registers the child.
-2. The app captures the image/snapshots from a live feed.
-3. Using deep learning algorithms, the app detects the mood of the child and will give a label accordingly.
-4. The label is stored in a database along with the time-stamp.
-5. A machine learning model, trained on a dataset of that child will look up for anomalies in child behavior.
-6. All of the data will be shown in the dashboard, along with tags and color-coded. Also, the user will be notified of an anomaly.
-7. The user can also look up at his/her previous data.
+The microcontroller will interpret the AQI values. If these AQI values are found harmful, the microcontroller with command the servo motors to move and close the mask of the user. All these values will be fed to an application which will be built wherein the user can view all these details on his smartphone
+![image](https://user-images.githubusercontent.com/76823502/142742858-af62e1e4-7024-40ee-9290-22adc0385888.png)
+
 
 
 ### <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech stack
