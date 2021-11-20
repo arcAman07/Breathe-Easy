@@ -9,11 +9,11 @@ making breathing extremely difficult. The massive amount of pollutants in the ai
 
 ### <img src="https://image.flaticon.com/icons/png/512/1632/1632633.png" width="32" height="32"> Components
 Arduino UNO <br>
-MQ sensor
-ESP8266
-Servo motors
-Mask 
-Android Application
+MQ sensor <br>
+ESP8266 <br>
+Servo motors <br>
+Mask <br>
+Android Application <br>
 
 
 ### <img src="https://www.pinclipart.com/picdir/big/352-3523258_implementation-icon-implementation-mechanism-vector-clipart.png" width="40" height="32"> Implementation
