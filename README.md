@@ -27,7 +27,7 @@ We will use an MQ sensor for sensing purpose and Arduino for processing the sens
 There are many projects, which can do Attentivity checking. But we have an advanced project which apart from doing Attention checking, does mood recognition and focuses on the mental health of children during these tough times. The mental development of a child occurs most in these foundational stages, and such effects on mental health at early stages can have a lifelong impact, and can even have a negative impact on a child’s attitude in the future. Utmost importance has to be given to a child’s mental health at these stages, and our app helps in doing so by breaking the barrier.
 
 ### <img src="https://icons-for-free.com/iconfiles/png/512/workflow-131964753379858822.png" width="40" height="32"> Workflow
-The microcontroller will interpret the AQI values. If these AQI values are found harmful, the microcontroller with command the servo motors to move and close the mask of the user. All these values will be fed to an application which will be built wherein the user can view all these details on his smartphone
+The microcontroller will interpret the AQI values. If these AQI values are found harmful, the microcontroller with command the servo motors to move and close the mask of the user. All these values will be fed to an application which will be built wherein the user can view all these details on his smartphone. This way he can document the areas a person travels which is highly populated so that he can avoid that in the future. Also the application will give precautions to the user based on the AQI index of the air surrounding the user.
 ![image](https://user-images.githubusercontent.com/76823502/142742858-af62e1e4-7024-40ee-9290-22adc0385888.png)
 
 
