@@ -37,6 +37,6 @@ The microcontroller will interpret the AQI values. If these AQI values are found
 2. <img src="https://developers.google.com/ml-kit/images/homepage/hero.png" width="40" height="32"> Google ML Kit
 3. <img src=https://www.gstatic.com/devrel-devsite/prod/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea/firebase/images/touchicon-180.png width="32" height="32"> Firebase
 4. <img src=https://i.ytimg.com/vi/K_d4PQn1I5A/maxresdefault.jpg width="32" height="32"> Arduino
-5. <img src=https://avatars.githubusercontent.com/u/9865736?s=280&v=4 width="32" height="32"> NodeMCU
+5. <img src=https://avatars.githubusercontent.com/u/9865736?s=200&v=4 width="32" height="32"> NodeMCU
 6. <img src=https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png width="32" height="32"> Figma
 7. <img src=https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png width="32" height="32"> Heroku
