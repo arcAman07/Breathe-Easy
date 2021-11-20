@@ -1,6 +1,6 @@
 # Breathe-Easy
 
-> ## Cognized Online Education || A Blunder Bois Project
+> ## Cognized Online Education || A localhost:3000 Project
 
 ### <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="32" height="32"> APKs
 The project APK can be downloaded from [here](https://drive.google.com/drive/folders/1rxymNwMUUjd5hsnT7Pt_AyPrFKuqkH7_?usp=sharing).
