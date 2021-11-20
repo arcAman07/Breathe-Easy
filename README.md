@@ -1,6 +1,6 @@
 # Breathe-Easy
 
-> ## Cognized Online Education || A localhost:3000 Project
+> ## || A localhost:3000 Project
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/idea-1618744-1372450.png" width="32" height="32"> Problem Statement
 Delhi's average AQI(Air Quality Index) today is varying between 370 to 430, 
