@@ -7,8 +7,14 @@ Delhi's average AQI(Air Quality Index) today is varying between 370 to 430,
 making breathing extremely difficult. The massive amount of pollutants in the air is causing an unfortunately huge number of diseases of various types within the people living in and around Delhi. Even the air inside homes and other enclosed areas is of very poor quality. 
 
 
-### <img src="https://image.flaticon.com/icons/png/512/1632/1632633.png" width="32" height="32"> Objective
-Mental health is a very serious issue, which needs to be looked upon with utmost care. To create virtual access to a child’s mental health we have come up with our service - SLOE. As education is online, students sit hours in front of screens, and that’s the only time most of them are interacting with the outer world. During this time, without them noticing we record their behavioral pattern, and notify parents if there is an anomaly in the behavioral pattern of their child, or in simpler terms a sudden change in the behavior of their child during classes.
+### <img src="https://image.flaticon.com/icons/png/512/1632/1632633.png" width="32" height="32"> Components
+Arduino UNO
+MQ sensor
+ESP8266
+Servo motors
+Mask 
+Android Application
+
 
 ### <img src="https://www.pinclipart.com/picdir/big/352-3523258_implementation-icon-implementation-mechanism-vector-clipart.png" width="40" height="32"> Implementation
 To devise a method which can measure the AQI of the space and switch on the mechanisms which can lead to purification of the air inside the premises. For detection of indoor air quality, we plan to use a sensor to measure the Air Quality Index and send it to our microcontroller. The microcontroller will then use a WiFi-module to push the AQI data to an app.
