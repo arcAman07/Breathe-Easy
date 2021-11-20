@@ -8,7 +8,7 @@ making breathing extremely difficult. The massive amount of pollutants in the ai
 
 
 ### <img src="https://image.flaticon.com/icons/png/512/1632/1632633.png" width="32" height="32"> Components
-Arduino UNO
+Arduino UNO <br>
 MQ sensor
 ESP8266
 Servo motors
