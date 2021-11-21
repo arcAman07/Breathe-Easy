@@ -3,7 +3,7 @@
 > ## || A localhost:3000 Project
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/idea-1618744-1372450.png" width="32" height="32"> Problem Statement
-The average AQI(Air Quality Index) of Delhi and other cities is alarmingly high, making breathing extremely difficult. The massive amount of pollutants in the air is causing an unfortunately huge number of diseases of various types within the people living in and around the cities. Even the air inside homes and other enclosed areas is of very poor quality and continues to deteriorate everyday.
+The average AQI (Air Quality Index) of Delhi and other cities is alarmingly high, making breathing extremely difficult. The massive amount of pollutants in the air is causing an unfortunately huge number of diseases of various types within the people living in and around the cities. Even the air inside homes and other enclosed areas is of very poor quality and continues to deteriorate everyday.
 
 
 ### <img src="https://image.flaticon.com/icons/png/512/1632/1632633.png" width="32" height="32"> Components
